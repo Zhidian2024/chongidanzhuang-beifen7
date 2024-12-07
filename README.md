@@ -22,7 +22,6 @@ SpringBoot 框架，充电桩平台+充电桩系统+充电平台+充电桩+互�
 
 # 五、完整充电产品举例（底层是云快充1.5协议支持）
 
-![extending-a-theme](/000.png)
 ![extending-a-theme](/001.png)
 ![extending-a-theme](/002.png)
 ![extending-a-theme](/003.png)
